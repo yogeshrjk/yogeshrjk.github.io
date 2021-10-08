@@ -1,0 +1,14 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.tools .col-sm-4 {
+  padding: 10px;
+}
+.tools .col-sm-4:hover {
+  background-color: #e9ecef;
+  border-radius: 5px;
+  transition: all;
+  transition-duration: 25ms;
+}
